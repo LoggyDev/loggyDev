@@ -1,6 +1,1 @@
-
-<body>
-  <center>hello?</center>
-</body>
-
-
+<p style="text-align:center">Center this text!</p>
