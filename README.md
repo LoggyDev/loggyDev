@@ -1,6 +1,6 @@
 
 <body>
-  <marquee>Loggy Dev Is Epic</marquee>
+  <marquee behavior="scroll" direction="left">Loggy Dev Is Epic</marquee>
 </body>
 
 
