@@ -1,1 +1,1 @@
-<p style="text-align:center">Center this text!</p>
+<h1>Loggy Developer</h1>
